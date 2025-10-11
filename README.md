@@ -64,12 +64,6 @@ Adidas experienced:
 
 ---
 
-## 📎 Presentation & Video
-
-🎥 [Watch the presentation](https://youtu.be/ontu7gJzvRs)
-
----
-
 ## 💡 Key Learnings
 
 - How to integrate CRM + BI tools for end-to-end decision support  
