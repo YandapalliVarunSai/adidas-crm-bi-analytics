@@ -1,10 +1,4 @@
 # 📊 Adidas CRM + BI Analytics Project
-
-**Student:** Varun Sai Yandapalli  
-**Institution:** National College of Ireland  
-**Module:** Business Intelligence & Business Analytics  
-**Submission Date:** April 20, 2025  
-
 ---
 
 ## 🚀 Project Overview
