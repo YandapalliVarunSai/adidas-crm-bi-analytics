@@ -64,9 +64,4 @@ Adidas experienced:
 - Loyalty-driven personalization using Salesforce flows  
 - Real-time KPI monitoring with Power BI dashboards
 
----
 
-## 📬 Contact
-
-📧 x23325836@student.ncirl.ie  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_HANDLE)
